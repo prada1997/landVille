@@ -1,6 +1,6 @@
 # landVille
 
-# Description:
+Description:
 In this program we are using different concepts of the Object Oriented Programming.
 
 Menu:
