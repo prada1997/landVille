@@ -6,14 +6,14 @@ In this program we are using different concepts of the Object Oriented Programmi
 
 Menu:
 
-First option is to build house for example if the land is of 6x6
+1 option is to build house for example if the land is of 6x6
 then the house could be of 4x4
 
-Second optiom is to display the house on the land.
+2 optiom is to display the house on the land.
 
-Third option is to clear the land values.
+3 option is to clear the land values.
 
-Fourth option is to exit the program.
+4 option is to exit the program.
 
 In order to run the Program follow the below commands for Command Prompt:
 1. javac LandVille.java
